@@ -6,4 +6,4 @@
     </tr>
 </table>
 
-![codes](img/codes.png)
+![codes](img/codes.jpg)
